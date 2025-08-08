@@ -12,5 +12,4 @@
 4. WHERE: Filter rows using conditions (=, <, !=, BETWEEN, IN, LIKE, NOT).
 5. Logical Operators: Combine conditions with AND, OR, NOT.
 6. Sorting & Limiting: Use ORDER BY (ASC/DESC), LIMIT (restrict rows), and OFFSET (skip rows).
-  - **LLM:** - [Link1](SQL-MYSQL/Basics-1.ipynb), [Link2](SQL-MYSQL/Basics1.ipynb)
-  
+
